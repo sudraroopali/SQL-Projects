@@ -3,7 +3,7 @@ For these projects, I have used MySQL. The projects here are designed to use SQL
 
 ## PROJECTS
 
-### 1.Exploring cricket data 
+### 1. Exploring cricket data 
 The project showcased expertise in data analysis, SQL querying, and data manipulation. Analyzed the ICC Test Batting Figures dataset to formulate optimal batting orders for the top 6 players using various selection criteria. Utilized SQL queries and data manipulation techniques to extract relevant information and generate insights on player demographics
 
 ### 2. Exploring supplychain data 
